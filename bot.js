@@ -1,7 +1,7 @@
 const mineflayer = require("mineflayer");
 
 var settings = {
-    username: "TestMachine",
+    username: "BobtheBot",
     host: "localhost",
 };
 
